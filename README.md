@@ -1,2 +1,2 @@
 # RemoteServer
-Remoter Server Monitoring System
+Server Monitoring System
